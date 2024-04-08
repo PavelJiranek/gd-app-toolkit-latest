@@ -9,7 +9,7 @@
     "types": "./esm/index.d.ts",
     "gooddata": {
         "hostname": "https://demo.cloud.gooddata.com",
-        "workspaceId": "d256a56db8db4173825564d1d4cbd2f9",
+        "workspaceId": "c138cebce1d94c97b5d488998326eaec",
         "backend": "tiger",
         "catalogOutput": "src/catalog.ts"
     },
